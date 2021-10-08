@@ -1,2 +1,2 @@
-# Nural_network
-EarlyStoping
+
+Early Stoping
